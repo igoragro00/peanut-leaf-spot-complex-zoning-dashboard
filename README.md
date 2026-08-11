@@ -1,2 +1,2 @@
 # Painel de Zoneamento de Risco Climático para o Complexo de Cercosporiose do Amendoim no Estado de São Paulo
-Interactive dashboard and geospatial datasets for climate risk zoning of the peanut leaf spot complex in Brazil and the United States.
+Painel interativo e conjuntos de dados geoespaciais para o zoneamento de risco de incidência do complexo de cercosporiose do amendoim no estado de São Paulo no cenário Atual e Futuro
